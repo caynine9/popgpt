@@ -9,5 +9,5 @@ For now it's basically useless. It doesn't read browser's logged in state
 - Click `Load Unpacked` and browse the folder.
 
 ## To-Do
-- Browser state detection (cookies etc, might have to integrate OpenAI's API?)
+- Browser state detection (cookies handling, might have to integrate OpenAI's API?)
 - etc..
