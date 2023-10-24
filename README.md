@@ -1,5 +1,5 @@
 # PopGPT
-Opens ChatGPT in a browser extension popup window
+Opens ChatGPT in a browser extension popup window <br />
 For now it's basically useless. It doesn't read browser's logged in state
 
 ## Instructions
