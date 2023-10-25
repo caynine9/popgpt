@@ -3,9 +3,16 @@
     "name": "ChatGPT Extension",
     "version": "1.0",
     "description": "Opens ChatGPT in a popup",
-    "permissions": ["activeTab", "storage"],
+    "permissions": ["activeTab", "storage", "cookies", "background", "tabs",  "http://*/*",
+    "https://*/*"],
     "action": {
       "default_popup": "popup.html"
-    }
+    },
+    "content_scripts": [
+      {
+        "matches": ["http://*/*", "https://*/*"],
+        "js": ["cookie_handler.js"]
+      }
+    ]
   }
   

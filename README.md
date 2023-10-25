@@ -1,6 +1,5 @@
 # PopGPT
-Opens ChatGPT in a browser extension popup window <br />
-For now it's basically useless. It doesn't read browser's logged in state
+Opens ChatGPT in a browser extension popup window
 
 ## Instructions
 - `git clone` to new empty folder.
@@ -8,6 +7,5 @@ For now it's basically useless. It doesn't read browser's logged in state
 - Go to to your browser settings -> Extensions -> and enable "Developer Mode"
 - Click `Load Unpacked` and browse the folder.
 
-## To-Do
-- Browser state detection (cookies handling, might have to integrate OpenAI's API?)
-- etc..
+## Useful Information
+- https://stackoverflow.com/questions/1439377/access-cookies-from-google-chrome-extension
