@@ -1,7 +1,7 @@
 # PopGPT
 Opens ChatGPT in a browser extension popup window
 
-https://raw.githubusercontent.com/caynine9/popgpt/main/screenshot.png
+(https://raw.githubusercontent.com/caynine9/popgpt/main/screenshot.png)
 
 ## Instructions
 - `git clone` to new empty folder.
