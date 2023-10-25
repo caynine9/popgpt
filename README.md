@@ -9,3 +9,4 @@ Opens ChatGPT in a browser extension popup window
 
 ## Useful Information
 - https://stackoverflow.com/questions/1439377/access-cookies-from-google-chrome-extension
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
