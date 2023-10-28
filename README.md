@@ -10,7 +10,7 @@ Opens ChatGPT in a browser extension popup window
 - Click `Load Unpacked` and browse the folder.
 
 ## ToDo
-- save state when closing the extension (chrome.storage api)
+- save state when closing the extension (chrome.storage api) **PULL REQUEST IS OPEN**
 
 ## Useful Information
 - https://stackoverflow.com/questions/1439377/access-cookies-from-google-chrome-extension
