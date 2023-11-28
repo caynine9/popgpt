@@ -11,7 +11,8 @@ Opens ChatGPT in a browser extension popup window
 
 ## ToDo
 - save state when closing the extension (chrome.storage api) **PULL REQUEST IS OPEN**
-
+- switchable mode to popup window/new window
+  
 ## Useful Information
 - https://stackoverflow.com/questions/1439377/access-cookies-from-google-chrome-extension
 - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
