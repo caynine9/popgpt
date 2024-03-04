@@ -1,4 +1,4 @@
-# THIS PROJECT IS DISCONTINUED
+# -- THIS PROJECT IS DISCONTINUED --
 OpenAI have disallowed loading of their ChatGPT web resource in an iframe outside of their domain.
 
 # PopGPT
