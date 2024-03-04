@@ -1,3 +1,6 @@
+# THIS PROJECT IS DISCONTINUED
+OpenAI have disallowed loading of their ChatGPT web resource in an iframe outside of their domain.
+
 # PopGPT
 Opens ChatGPT in a browser extension popup window
 
